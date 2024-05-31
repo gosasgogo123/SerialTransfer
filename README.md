@@ -49,7 +49,7 @@ windows平台程序尚未完成收发二进制程序，若想与linux开发板�
 1. 克隆仓库：
    
    ```sh
-   git clone https://github.com/bartgogo/SerialTransfer.git
+   git clone https://github.com/gosasgogo123/SerialTransfer.git
    cd SerialTransfer
    ```
 
